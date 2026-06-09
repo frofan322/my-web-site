@@ -20,3 +20,11 @@ td {
     background-color: #f2f2f2;
     text-align: center;
 }
+
+footer a {
+    text-decoration: none;
+    color: #0066cc;
+}
+footer a:hover {
+    color: #ff6600;
+}
