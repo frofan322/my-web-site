@@ -7,3 +7,8 @@ h1 {
     font-family: Arial;
 }
 
+th {
+    background-color: lightgray;
+    color: navy;
+    padding: 10px;
+}
