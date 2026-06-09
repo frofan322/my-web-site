@@ -3,8 +3,9 @@ body {
 }
 
 h1 {
-    color: darkblue;
-    font-family: Arial;
+    color: green;
+    font-size: 32px;
+    text-decoration: underline;
 }
 
 th {
@@ -12,3 +13,4 @@ th {
     color: navy;
     padding: 10px;
 }
+
